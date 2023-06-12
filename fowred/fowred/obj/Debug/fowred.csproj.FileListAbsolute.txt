@@ -1,0 +1,49 @@
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\bin\Debug\fowred.exe.config
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\obj\Debug\fowred.csprojResolveAssemblyReference.cache
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\obj\Debug\fowred.Form1.resources
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\obj\Debug\fowred.Properties.Resources.resources
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\obj\Debug\fowred.csproj.GenerateResource.Cache
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\bin\Debug\fowred.exe
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\bin\Debug\fowred.pdb
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\obj\Debug\fowred.exe
+c:\users\ghazi hmeedi\documents\visual studio 2015\Projects\fowred\fowred\obj\Debug\fowred.pdb
+C:\Users\IT\Desktop\fowred\fowred\bin\Debug\fowred.exe.config
+C:\Users\IT\Desktop\fowred\fowred\bin\Debug\fowred.exe
+C:\Users\IT\Desktop\fowred\fowred\bin\Debug\fowred.pdb
+C:\Users\IT\Desktop\fowred\fowred\obj\Debug\fowred.csprojAssemblyReference.cache
+C:\Users\IT\Desktop\fowred\fowred\obj\Debug\fowred.Form1.resources
+C:\Users\IT\Desktop\fowred\fowred\obj\Debug\fowred.Properties.Resources.resources
+C:\Users\IT\Desktop\fowred\fowred\obj\Debug\fowred.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\fowred\fowred\obj\Debug\fowred.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\fowred\fowred\obj\Debug\fowred.exe
+C:\Users\IT\Desktop\fowred\fowred\obj\Debug\fowred.pdb
+F:\fowred\fowred\bin\Debug\fowred.exe.config
+F:\fowred\fowred\bin\Debug\fowred.exe
+F:\fowred\fowred\bin\Debug\fowred.pdb
+F:\fowred\fowred\obj\Debug\fowred.csprojResolveAssemblyReference.cache
+F:\fowred\fowred\obj\Debug\fowred.Form1.resources
+F:\fowred\fowred\obj\Debug\fowred.Properties.Resources.resources
+F:\fowred\fowred\obj\Debug\fowred.csproj.GenerateResource.Cache
+F:\fowred\fowred\obj\Debug\fowred.csproj.CoreCompileInputs.cache
+F:\fowred\fowred\obj\Debug\fowred.exe
+F:\fowred\fowred\obj\Debug\fowred.pdb
+C:\Users\SMARTER PC\Desktop\fowred\fowred\bin\Debug\fowred.exe.config
+C:\Users\SMARTER PC\Desktop\fowred\fowred\bin\Debug\fowred.exe
+C:\Users\SMARTER PC\Desktop\fowred\fowred\bin\Debug\fowred.pdb
+C:\Users\SMARTER PC\Desktop\fowred\fowred\obj\Debug\fowred.csprojResolveAssemblyReference.cache
+C:\Users\SMARTER PC\Desktop\fowred\fowred\obj\Debug\fowred.Form1.resources
+C:\Users\SMARTER PC\Desktop\fowred\fowred\obj\Debug\fowred.Properties.Resources.resources
+C:\Users\SMARTER PC\Desktop\fowred\fowred\obj\Debug\fowred.csproj.GenerateResource.Cache
+C:\Users\SMARTER PC\Desktop\fowred\fowred\obj\Debug\fowred.csproj.CoreCompileInputs.cache
+C:\Users\SMARTER PC\Desktop\fowred\fowred\obj\Debug\fowred.exe
+C:\Users\SMARTER PC\Desktop\fowred\fowred\obj\Debug\fowred.pdb
+D:\محاضرات\مشاريع\fowred\fowred\bin\Debug\fowred.exe.config
+D:\محاضرات\مشاريع\fowred\fowred\bin\Debug\fowred.exe
+D:\محاضرات\مشاريع\fowred\fowred\bin\Debug\fowred.pdb
+D:\محاضرات\مشاريع\fowred\fowred\obj\Debug\fowred.csprojResolveAssemblyReference.cache
+D:\محاضرات\مشاريع\fowred\fowred\obj\Debug\fowred.Form1.resources
+D:\محاضرات\مشاريع\fowred\fowred\obj\Debug\fowred.Properties.Resources.resources
+D:\محاضرات\مشاريع\fowred\fowred\obj\Debug\fowred.csproj.GenerateResource.Cache
+D:\محاضرات\مشاريع\fowred\fowred\obj\Debug\fowred.csproj.CoreCompileInputs.cache
+D:\محاضرات\مشاريع\fowred\fowred\obj\Debug\fowred.exe
+D:\محاضرات\مشاريع\fowred\fowred\obj\Debug\fowred.pdb
